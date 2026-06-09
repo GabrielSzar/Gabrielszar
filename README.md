@@ -1,6 +1,8 @@
 ## ElesEstaoDiOlhoEmNoisDaSilva
 ElesEstaoDiOlhoEmNoisDaSilva
 
+<img src="OlhoemNois.jpeg" alt="estão de olho..." width="300" align="center"/> <img src="67funk.jpeg" alt="" width="6.7" align="top">
+
 <!--
 **GabrielSzar/Gabrielszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
